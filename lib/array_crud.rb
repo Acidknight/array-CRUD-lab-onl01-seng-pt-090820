@@ -12,6 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
+  video_game_character = ["Link", "Samus", "Mario", "Luigi"]
   
 end
 
