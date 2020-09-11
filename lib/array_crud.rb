@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   #video_game_character = ["Link", "Samus", "Mario", "Luigi"]
-  video_game_character << "Princess Peach"
+  video_game_character << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
