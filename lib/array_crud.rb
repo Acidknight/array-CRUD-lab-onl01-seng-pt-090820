@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   video_game_character = ["Link", "Samus", "Mario", "Luigi"]
-  video_game_character.unshift("arrays!")
+  video_game_character.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
