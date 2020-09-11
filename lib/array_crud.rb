@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   video_game_character = 
-  
+  wow = video_game_character.shift
 end
 
 def retrieve_element_from_index(array, index_number)
