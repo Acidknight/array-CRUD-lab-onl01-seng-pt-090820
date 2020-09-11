@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  video_game_character = ["Link", "Samus", "Mario", "Luigi"]
+  video_game_character = ["Link", "Samus", "am", "Luigi"]
   video_game_character[2]
 end
 
